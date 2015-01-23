@@ -5,3 +5,4 @@ Work in progress. Come back soon to check it out!
 (written Jan 23rd)
 
 ![Sample GIF](out.gif)
+![sample 2](loujessie.gif)
