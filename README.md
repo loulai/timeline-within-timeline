@@ -15,3 +15,4 @@ Here's a visual outline of "timeline within timeline"
 
 Thank you for considering me for such an exciting opportunity!
 
+![logo](logo.gif)
