@@ -5,4 +5,5 @@ Work in progress. Come back soon to check it out!
 (written Jan 23rd)
 
 ![Sample GIF](out.gif)
+![Sample time](out1.gif)
 ![sample 2](loujessie.gif)
