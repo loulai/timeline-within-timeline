@@ -4,7 +4,4 @@ Hey awesome Facebook people! Here's a demo of my idea of a timeline within a tim
 Work in progress. Come back soon to check it out! 
 (written Jan 23rd)
 
-![Sample GIF](out.gif)
-![Sample time](out1.gif)
 ![title](title.gif)
-![sample 2](loujessie.gif)
