@@ -2,10 +2,9 @@ timeline-within-timeline
 =====
 ![title](title.gif)
 
-Hey awesome Facebook people! Here's a demo of my idea of a timeline within a timeline.
+Hey awesome people at Facebook! 
 =====
 
-Work in progress. Come back soon to check it out! 
-(written Jan 23rd)
+Here's a visual outline of "timeline within timeline"
 
 ![progression](progression.gif)
