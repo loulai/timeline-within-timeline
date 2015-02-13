@@ -18,8 +18,8 @@ Why Lou (over the other good-but-not-as-good fish in the sea) for Facebook Unive
 I have experience with tech that most freshman don't have
 ----
 * I've worked in a team of seven people intensely for two weeks building a web app called [Unipop].
-* I've worked with all sorts of technology, like Rails, APIs, like testing using RSpec and Cucumber
-* I love technology. Click here for photos of my tech escapades.
+* I've worked with all sorts of technology, like Rails, deploying with Heroku, testing using RSpec and Cucumber, app testing with ngrok
+* I love technology. [Click here for photos of my tech escapades].
 * I'm fun to have a techquila with
 
 Thank you for considering me for such an exciting opportunity!
@@ -27,3 +27,4 @@ Thank you for considering me for such an exciting opportunity!
 ![logo](logo.gif)
 
 [Unipop]:https://github.com/StephanMusgrave/unipop
+[Click here for photos of my tech escapades]:louiselai.com/tech-events
