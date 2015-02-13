@@ -13,11 +13,12 @@ Here's a visual outline of "timeline within timeline"
 ![progression](progression.gif)
 
 
-Why choose Lou (over the other good-but-not-as-good fish in the sea) for Facebook University?
+Lou > good-but-not-as-good fish in the sea for Facebook University
 =====
-* I've had experiences most freshmen don't have (with all due respect):
-* I've worked in a team (seven people) intensely for two weeks building a web app called [Unipop].
-* Me != just books and what I've been taught in class!
+* I've had experiences most freshmen don't have (with all due respect)
+---
+* I've worked in a team of seven people intensely for two weeks building a web app called [Unipop].
+* Me != just books and what I've been taught in class
 * I've worked with all sorts of technology, like Rails, APIs, like testing using RSpec and Cucumber
 * I love technology. Click here for photos of my tech escapades.
 * I'm fun to have a techquila with
