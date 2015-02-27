@@ -15,12 +15,18 @@ Here's a visual outline of "timeline within timeline"
 
 Why Lou for Facebook University?
 =====
-* *Quick to learn*: From 0 to my first web app in 12 weeks.
-* *Teamwork*: Me and a team of seven newbie hackers built a Rails app called [Unipop] in two weeks.
-* *Technology experience*: Ruby, Heroku, APIs, java, CSS & HTML, RSpec & Cucumber, ngrok and [much more]!
-* *Passion*. [Click here for photos of my tech escapades].
-* *Interest in Internet.org*: I grew up in Malaysia, and I see and feel the effects of lacking internet all around me. I want to help Facebook in their mission of connecting the globe.
-* I'm fun to have a techquila with:
+* **Quick to learn**: From 0 to my first web app in 12 weeks.
+
+* **Teamwork**: Me and a team of seven newbie hackers built a Rails app called [Unipop] in two weeks.
+
+* **Technology experience**: Ruby, Heroku, APIs, java, CSS & HTML, RSpec & Cucumber, ngrok and [much more]!
+
+* **Passion**. [Click here for photos of my tech escapades].
+
+* **Interest in Internet.org**: I grew up in Malaysia, and I see and feel the effects of lacking internet all around me. I want to help Facebook in their mission of connecting the globe.
+
+* I'm fun to have a techquila with
+![techquila](techquila.jpg)
 
 Thank you for considering me for such an exciting opportunity!
 
