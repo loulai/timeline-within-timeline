@@ -23,7 +23,7 @@ Why Lou for Facebook University?
 
 * **Passion**. [Click here for photos of my tech escapades].
 
-* **Interest in Internet.org**: I grew up in Malaysia, and I see and feel the effects of lacking internet all around me. I want to help Facebook in their mission of connecting the globe.
+* **Interest in Internet.org**: I grew up in a small town in Malaysia. I see and feel the effects of poor internet all around me. I want to join Facebook in their mission of providing connectivity to the world.
 
 * I'm fun to have a techquila with
 ![techquila](techquila.jpg)
