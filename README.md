@@ -25,7 +25,7 @@ Why Lou for Facebook University?
 
 * **Interest in Internet.org**: I grew up in a small town in Malaysia. I see and feel the effects of poor internet all around me. I want to join Facebook in their mission of providing connectivity to the world.
 
-* I'm fun to have a techquila with
+* I'm fun to have a techquila with.
 ![techquila](techquila.jpg)
 
 Thank you for considering me for such an exciting opportunity!
