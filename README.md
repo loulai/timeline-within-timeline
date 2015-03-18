@@ -15,7 +15,7 @@ Here's a visual outline of "timeline within timeline"
 
 Why Lou for Facebook University?
 =====
-* **Quick to learn**: From 0 to my first web app in 12 weeks.
+* **Quick to learn**: From 0 to my first web app in twelve weeks.
 
 * **Teamwork**: Me and a team of seven newbie hackers built a Rails app called [Unipop] in two weeks.
 
